@@ -46,7 +46,7 @@ The user becomes the "Operator," whose biometric data and commands are processed
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: A `requirements.txt` file should be generated using `pip freeze > requirements.txt`)*
+    
 
 4.  **Configure API Key:**
     -   Obtain a free API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
